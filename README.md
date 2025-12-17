@@ -42,26 +42,30 @@ $>labwc
 
 *If you have gdm installed,  you can choose labwc as a session.*
 
-<hr>
+<pre>
+<br>
+<br>
+
 <img width="1280" height="800" alt="alma10-labwc-1-vm" src="https://github.com/user-attachments/assets/9b5fefaa-e88d-4a25-8c4a-5b1e3f55787b" />
 
+<br>
+<br>
 
-
-<hr>
 <img width="1920" height="1080" alt="alma10-labwc-2" src="https://github.com/user-attachments/assets/389aaa82-ae7c-4799-933d-d9b37e452ba9" />
 
+<br>
+<br>
 
-
-<hr>
 <img width="1920" height="1080" alt="alma10-labwc-3" src="https://github.com/user-attachments/assets/baf2e7b9-7c65-49f9-bc87-6ad05b84afc6" />
 
+<br>
+<br>
 
+<img width="1920" height="1080" alt="alma10-labwc-4" src="https://github.com/user-attachments/assets/cbf3d850-7de5-436e-82f5-90a203c879f0" /><br>
 
-<hr>
-<img width="1920" height="1080" alt="alma10-labwc-4" src="https://github.com/user-attachments/assets/cbf3d850-7de5-436e-82f5-90a203c879f0" />
-
-
-
+<br>
+<br>
+</pre>
 
 <hr>
 <hr>
