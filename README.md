@@ -10,7 +10,7 @@
 
 ## Basic Setup:
 
-*create config dirs, create basic menus,set sakura as default terminal.*
+*create config dirs, create basic menus, set 'sakura' as default terminal.*
 
 <code>
 
