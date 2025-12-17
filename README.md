@@ -1,6 +1,5 @@
 # labwc4el10
-*testing on EL10 *only build for v3(the default) but one can be rebuild for x86_64_v2 and aarch64 using the SRPMS*
-
+*testing on EL10 *
 
 ## Install:
 <code>
