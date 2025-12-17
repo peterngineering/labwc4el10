@@ -35,6 +35,12 @@ echo "sfwbar >/dev/null 2>&1 &"> ~/.config/labwc/autostart
 <hr>
 
 ## Usage:
+*If you need a custom scale factor add a stanza to autostart, here is example for a eDP-1 display with 2x. Which is just appended to ~/.config/labwc/autostart*
+<code>
+wlr-randr --output eDP-1 --scale 2 >/dev/null 2>&1 &
+</code>
+
+
 *If you only have a minimal install with console:*
 <code>
 $>labwc
