@@ -73,6 +73,25 @@ $>labwc
 </pre>
 
 <hr>
+
+## Advanced:
+*To rebuild from SRPMS, the easiest way is to use mock.*
+*Here are examples I currently use to rebuild SRPMS.*
+*This builds the whole chain and adds the arch appropriate suffix as well, eg (_v2)*
+
+<code>
+ 
+Typical normal modern x86_64 version 3 machines
+  mock -r alma+epel-10-x86_64 --chain --recurse *.src.rpm
+
+Older x86_64 hardware, version 2  
+  mock -r alma+epel-10-x86_64_v2 --chain --recurse *.src.rpm
+
+aarch64 targets
+  mock -r alma+epel-10-aaarch64 --chain --recurse *.src.rpm
+  
+</code>
+
 <hr>
 
 ## Links:
