@@ -88,7 +88,7 @@ Older x86_64 hardware, version 2
   mock -r alma+epel-10-x86_64_v2 --chain --recurse *.src.rpm
 
 aarch64 targets
-  mock -r alma+epel-10-aaarch64 --chain --recurse *.src.rpm
+  mock -r alma+epel-10-aarch64 --chain --recurse *.src.rpm
   
 </code>
 
