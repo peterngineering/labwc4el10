@@ -87,11 +87,11 @@ Typical normal modern x86_64 version 3 machines
 Older x86_64 hardware, version 2  
   mock -r alma+epel-10-x86_64_v2 --chain --recurse *.src.rpm
 
-aarch64 targets  *set notes below about aarch64 and qemu 
+aarch64 targets  *set notes below about aarch64 and sfwbar 
   mock -r alma+epel-10-aarch64 --chain --recurse *.src.rpm
 
-*Notes: On my x86_64 host, I recieved the early prestart warming that I didnt have what it needed, specifically the static qemu binary, but I let it try anyway and it did fail. 'WARNING: Mock with --forcearch=aarch64 will likely fail with missing /usr/bin/qemu-aarch64-static'*
-*I probably could have found an upstream package to install the dependency to emulate aarch64 with qemu, but I decided to build directly on a RPI4 with alma10 for fun. I could have built it in a VM on my mac arm64 hw a lot faster, but didn't.*
+*Notes: 
+sfwbar is testing on aarch64 and on my rpi4 some icons will not respond to clicks at this time, this is the latest version that does partially work. Do not use the sfwbar SRPM from Git Latest Testing for on x86_64 or x86_64_v2.
  
 </code>
 
